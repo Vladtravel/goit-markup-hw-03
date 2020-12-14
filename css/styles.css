@@ -306,7 +306,7 @@ ul {
   line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
-  display: block;
+  display: inline-block;
   padding-top: 60px;
   padding-bottom: 20px;
 }
@@ -371,8 +371,11 @@ ul {
 .button-list:not(:last-child) {
   margin-right: 8px;
 }
+.button-link {
+  padding-top: 94px;
+  padding-bottom: 50px;
+}
 .futures-link {
-  height: 182px;
   display: flex;
   justify-content: center;
   align-items: center;
