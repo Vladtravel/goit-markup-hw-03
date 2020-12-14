@@ -225,6 +225,7 @@ ul {
 }
 .section-second {
   background: #e5e5e5;
+  padding-bottom: 94px;
 }
 .foto {
   display: flex;
@@ -236,6 +237,8 @@ ul {
 }
 .section-third {
   background: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .team-section {
   display: flex;
@@ -250,7 +253,6 @@ ul {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
   background: #ffffff;
-  margin-bottom: 78px;
 }
 .section-third .title {
   font-family: Roboto;
@@ -264,7 +266,6 @@ ul {
   margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 188px;
 }
 .section-third .name-title {
   font-family: Roboto;
@@ -288,7 +289,6 @@ ul {
   color: var(--secondary-text-color);
   margin-top: 0;
   margin-bottom: 0;
-  padding-bottom: 30px;
 }
 
 /* Футер */
