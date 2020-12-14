@@ -386,6 +386,7 @@ ul {
   flex-wrap: wrap;
   padding-left: 0;
   justify-content: space-between;
+  padding-bottom: 94px;
 }
 .futures-list .title {
   font-family: Roboto;
