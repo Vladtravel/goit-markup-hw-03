@@ -23,7 +23,6 @@ ul {
 }
 .page-header {
   background-color: var(--bg-color-white);
-  border: 1px solid #ececec;
 }
 .container {
   width: 1200px;
