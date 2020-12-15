@@ -289,7 +289,7 @@ ul {
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 30px;
 }
 
 /* Футер */
